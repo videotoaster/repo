@@ -1,6 +1,3 @@
-# brizadine
-Brizadine is an APT repository (suitable for Cydia and Icy) for iOS 5 and 6 devices.
-
-It contains older iOS apps with adjustments for iOS 5 and 6 on Retina screens, with 2x icons and more.
-
-It's also hosted on Git. I'm sorry.
+# Video's Cydia Repo
+### THIS WILL NOT WORK ON iPhoneOS 1-iOS 4, or iOS 10+!
+This repo is dedicated to iOS 5 and 6 applications with slight adjustments (including @2x icons) for Retina devices.
